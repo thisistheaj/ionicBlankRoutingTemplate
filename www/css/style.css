@@ -1,0 +1,11 @@
+
+/* Simple style class for our view's text. Delete if not used.*/
+.centered-text {
+  width: 100%;
+  height: 100%;
+  padding-top: 50%;
+  text-align: center;
+}
+
+/*Add your own CSS if you like */
+
